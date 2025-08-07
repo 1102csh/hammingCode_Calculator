@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "hammingcode",
+    "slug": "snack-1b68e712-c011-4de1-8945-3b68765c2232",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.csh1102.snack1b68e712c0114de189453b68765c2232"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9f90ff7a-a114-4327-930f-76dd2a7193ad"
+      }
+    }
+  }
+}
