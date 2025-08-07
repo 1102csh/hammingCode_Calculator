@@ -1,11 +1,9 @@
-# Sample Snack app
+# 해밍코드 계산기 ( 2025. 08. )
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## 소개
+https://github.com/1102csh/hammingCode-old-<br>
+기존에 제작한 해밍코드 계산기를 개선하여 만든 어플리케이션
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 주요 기능
+* 해밍코드 생성
+* 사용자가 데이터 입력
