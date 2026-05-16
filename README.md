@@ -7,3 +7,6 @@ https://github.com/1102csh/hammingCode-old-<br>
 ## 주요 기능
 * 해밍코드 생성
 * 사용자가 데이터 입력
+
+## 실행 화면
+<img width="335" height="752" alt="image" src="https://github.com/user-attachments/assets/77d41f82-d330-4fe8-9f91-fda38df7cab9" />
